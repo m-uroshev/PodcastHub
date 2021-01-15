@@ -239,6 +239,8 @@ h6 {
 
 #main-nav ul li a.current {
   color: var(--ligh-color);
+  background: var(--secondary-color);
+  border-radius: 4px;
 }
 
 /* Showcase */
